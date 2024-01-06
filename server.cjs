@@ -25,11 +25,11 @@ const contactEmail = nodemailer.createTransport({
   port: 465,
   secure: true,
   auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASS
+    // user: process.env.EMAIL_USER,
+    // pass: process.env.EMAIL_PASS
 
-   
-
+    user: "sharmayash2862@gmail.com",
+    pass: "bhyl zuqb dnlb pkdo"
   },
 });
 
