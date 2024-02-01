@@ -3,6 +3,7 @@ import protfo from '../assets/portfo.png'
 import loginpage from '../assets/loginpage.avif'
 import weather from '../assets/weather.png'
 import snake from '../assets/snake.png'
+import ecom from '../assets/front.jpg'
 
 
 export const Projects = ()=> {
@@ -51,7 +52,7 @@ export const Projects = ()=> {
 
                    <div class="card">
                      <div class="box">
-                       <img src={weather} alt="photo" />
+                       <img src={ecom} alt="photo" />
                        <div class="text">E-Commerce site</div>
                        <p className="phara">Details :- Frontend E-Commerce website with responsive design <br />Technologies Used :- Html, Css , Javascript.<br /></p>
                        <div className="links">
