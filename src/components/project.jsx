@@ -48,6 +48,18 @@ export const Projects = ()=> {
                         </div>
                      </div>
                    </div>
+
+                   <div class="card">
+                     <div class="box">
+                       <img src={weather} alt="photo" />
+                       <div class="text">E-Commerce site</div>
+                       <p className="phara">Details :- Frontend E-Commerce website with responsive design <br />Technologies Used :- Html, Css , Javascript.<br /></p>
+                       <div className="links">
+                        <a href="https://mickyash.github.io/E-Com-/" className="link">Project Demo</a>
+                        <a href="https://github.com/mickyash/E-Com-" className='link'>Source Code</a>
+                        </div>
+                     </div>
+                   </div>
                    
                    <div class="card">
                      <div class="box">
